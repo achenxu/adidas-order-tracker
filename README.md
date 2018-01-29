@@ -8,3 +8,5 @@ Delimit the emails and passwords with a single space
 eg  
   email@domain.com password  
 Once you run the script it will output the results into a file named 'output.csv'
+
+Based on this script https://gist.github.com/naasfu/f09465d764f6f577bd730ac3b5bd0d3c
